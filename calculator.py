@@ -1,15 +1,3 @@
-"""
-Dimensions of Buttons -
-    height: 1
-    width: 3 (or (height*2)+1)
-
-Distance between two buttons -
-    In Rows: 60
-    In Columns: 60
-
-Font size in buttons: 9
-"""
-
 # Importing everything from tkinter
 from tkinter import *
 from tkinter.messagebox import showerror
